@@ -6,14 +6,8 @@ this instance.
 
 ## Doubts
 
-* Every Bean in Java projects is a Singleton? Because we don't need to
-  instance anyone
 * **Cons**: The Singleton pattern can mask bad design, for instance, when the
   components of the program know too much about each other
-* **Cons:** Explore more about that: "The pattern requires special
-  treatment in a multi threaded environment
-  so that multiple threads won't create a singleton object several
-  times"
 
 ## Also Know As
 
