@@ -5,6 +5,10 @@ design pattern's in Java.
 
 ![Types of Design Patterns](./imgs/types-of-design-patterns.jpeg "Types of Design Patterns")
 
+## Samples
+
+* [Singleton](./patterns/singleton/)
+
 ## Motivation
 
 ### Benefits
