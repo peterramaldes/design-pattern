@@ -1,6 +1,6 @@
 package com.peterramaldes;
 
-public final class Singleton {
+public class Singleton {
 
     private static Singleton instance;
     public String value;
