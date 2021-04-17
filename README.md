@@ -8,6 +8,7 @@ design pattern's in Java.
 ## Samples
 
 * [Singleton](./patterns/singleton/)
+* [Factory Method](./patterns/factory-method/)
 
 ## Motivation
 
