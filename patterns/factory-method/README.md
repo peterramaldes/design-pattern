@@ -10,7 +10,7 @@ but allows
 
 ## Also Know As
 
-## Motivation
+## Problem
 
 Imagine that we creating a logistics management application. The first version of our app we can only handle
 transportation by trucks, so the bulk of you code lives inside the `Truck` class.

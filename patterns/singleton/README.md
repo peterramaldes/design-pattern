@@ -13,7 +13,7 @@ this instance.
 
 I think that all people call Singleton.
 
-## Motivation
+## Problem
 
 The Singleton Pattern solves two problems at the same time, violating
 the Single Responsibility Principle:
