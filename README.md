@@ -9,6 +9,7 @@ design pattern's in Java.
 
 * [Singleton](./patterns/singleton/)
 * [Factory Method](./patterns/factory-method/)
+* [Abstract Factory](./patterns/abstract-factory/)
 
 ## Motivation
 
