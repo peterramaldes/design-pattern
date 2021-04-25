@@ -3,6 +3,9 @@
 > Derived classes must be usable through the base class interface,
 > without the need for the user to know the difference.
 
+> A program that uses an interface must not be confused by an
+> implementation of that interface
+
 Imagine we have two classes:
 
 * `Square` `Rectangle`
