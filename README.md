@@ -1,19 +1,20 @@
-# Study About Design Pattern's
+# Knowledge
 
-This repository is about some projects and documentation about
-design pattern's in Java.
+This repository is about all tech knowledge I need to study.
+
+## Design Pattern's
 
 ![Types of Design Patterns](./imgs/types-of-design-patterns.jpeg "Types of Design Patterns")
 
-## Samples
+### Samples
 
 * [Singleton](./patterns/singleton/)
 * [Factory Method](./patterns/factory-method/)
 * [Abstract Factory](./patterns/abstract-factory/)
 
-## Motivation
+### Motivation
 
-### Benefits
+#### Benefits
 
 Design Pattern have two major benefits:
 
@@ -27,7 +28,7 @@ Design Pattern have two major benefits:
    heads when they refer the name of the pattern used to solve a
    particular issue when discussing system design
 
-## Template
+### Template
 
 |Term|Description|
 |---|---|
@@ -40,3 +41,10 @@ Design Pattern have two major benefits:
 |Participants|Describes the classes and objects that participate in the design pattern and their responsabilities|
 |Collaborations|Describes how the participants collaborate to carry out their responsabilities|
 |Consequences|Describes the forces that exist with the pattern and the benefits, trade-offs, and the variable that is isolated by the pattern|
+
+## Principles
+
+* [SOLID](./principles/solid)
+* [KISS](./principles/kiss)
+
+
