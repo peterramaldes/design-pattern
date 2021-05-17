@@ -4,9 +4,10 @@
 
 ## Samples
 
-* [Singleton](./singleton/)
-* [Factory Method](./factory-method/)
 * [Abstract Factory](./abstract-factory/)
+* [Command](./command/)
+* [Factory Method](./factory-method/)
+* [Singleton](./singleton/)
 
 ## Motivation
 
