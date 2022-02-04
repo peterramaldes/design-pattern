@@ -6,13 +6,25 @@
 
 ### Creational
 
+**Creational pattern** design patterns provide ways to create objects while
+hiding the creation logic, instead of instantiating objects directly using the
+new operator. This gives the program more flexibility in deciding which objects
+need to be created for a given use case.
+
 1. [Singleton](./singleton/)
 2. [Factory](./factory-method/)
 3. [Abstract Factory](./abstract-factory/)
 
 ### Structural
 
+**Structural pattern** deals with class and objects composition. The concept of
+inheritance is used to compose interfaces and define ways to compose objects to
+obtain new functionality.
+
 ### Behavioral
+
+**Behavioral pattern** are specifically concerned with communication between
+objects.
 
 23. [Command](./command/)
 
