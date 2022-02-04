@@ -11,9 +11,9 @@ hiding the creation logic, instead of instantiating objects directly using the
 new operator. This gives the program more flexibility in deciding which objects
 need to be created for a given use case.
 
-1. [Singleton](./singleton/)
-2. [Factory](./factory-method/)
-3. [Abstract Factory](./abstract-factory/)
+1. [Singleton](./creational/singleton/)
+2. [Factory](./creational/factory-method/)
+3. [Abstract Factory](./creational/abstract-factory/)
 
 ### Structural
 
@@ -21,12 +21,14 @@ need to be created for a given use case.
 inheritance is used to compose interfaces and define ways to compose objects to
 obtain new functionality.
 
+6. [Adapter](./structural/adapter/)
+
 ### Behavioral
 
 **Behavioral pattern** are specifically concerned with communication between
 objects.
 
-23. [Command](./command/)
+23. [Command](./behavioral/command/)
 
 ## Motivation
 
