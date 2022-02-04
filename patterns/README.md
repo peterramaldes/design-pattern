@@ -4,10 +4,17 @@
 
 ## Samples
 
-* [Abstract Factory](./abstract-factory/)
-* [Command](./command/)
-* [Factory Method](./factory-method/)
-* [Singleton](./singleton/)
+### Creational
+
+1. [Singleton](./singleton/)
+2. [Factory](./factory-method/)
+3. [Abstract Factory](./abstract-factory/)
+
+### Structural
+
+### Behavioral
+
+23. [Command](./command/)
 
 ## Motivation
 
