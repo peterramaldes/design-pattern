@@ -6,5 +6,9 @@ public class Car {
 	public int getKilometers() {
 		return kilometers;
 	}
+
+	public String toString() {
+		return "My kilometers is " + kilometers;
+	}
 }
 
